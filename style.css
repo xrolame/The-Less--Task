@@ -1,0 +1,8 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+header {
+    font-size: 30px;
+    font-weight: bold;
+}
